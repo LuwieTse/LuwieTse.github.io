@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://luwietse.github.io/"/>
-  <updated>2018-08-08T08:24:06.000Z</updated>
+  <updated>2018-08-08T08:46:52.000Z</updated>
   <id>http://luwietse.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Some pics</title>
+    <link href="http://luwietse.github.io/2018/08/08/Some-pics/"/>
+    <id>http://luwietse.github.io/2018/08/08/Some-pics/</id>
+    <published>2018-08-08T08:43:24.000Z</published>
+    <updated>2018-08-08T08:46:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/2018/08/08/Some-pics/Users/luwietse/Desktop/MyBlog/public/css/images" alt="This is a kitten!"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;img src=&quot;/2018/08/08/Some-pics/Users/luwietse/Desktop/MyBlog/public/css/images&quot; alt=&quot;This is a kitten!&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>My New Post</title>
